@@ -1,0 +1,19 @@
+{
+    "name": "box cars",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.7.1",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
